@@ -1,4 +1,4 @@
-package pl.sw.Listing_6_23_6_24_6_25_VarArgs;
+package pl.sw.Listing_6_23_6_24_6_25_6_26_VarArgs;
 
 public class VarArgs1 {
     public static void main(String[] args) {
